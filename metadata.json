@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of SmartScale Pro v2.1.1",
+  "description": "Sistem Kontrol Jembatan Timbang Desktop Industrial dengan Integrasi Serial RS232.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
